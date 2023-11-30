@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+.piatto{
+    background-color: yellow;
+}
+
+h2{
+    background-color: aquamarine;
+}
+
+p{
+     background-color: aliceblue;
+
+    }
+
+ol{
+    background-color: yellowgreen;
+}
+
+.formaggio{
+    background-color: black;
+    color: yellow
+}
+
+
+
