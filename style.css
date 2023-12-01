@@ -45,4 +45,26 @@ ol{
 img{
     margin:8px auto;
     border: 8px solid orange;
+    width:50%;
+    height:auto;
+}
+
+.flex-container{
+display: flex;
+}
+
+.none{
+    flex:none;
+}
+
+.auto{
+    flex:auto;
+}
+
+.flexbox{
+    display: flex;
+}
+
+.initial{
+    flex: initial;
 }
